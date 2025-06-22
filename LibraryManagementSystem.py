@@ -1,12 +1,4 @@
-"""
-Date: 18 January 2021
-Author: Sanam Kandar
-Modified by: [Your Name]
-Project: Student Library Manager
-"""
-
 from datetime import datetime
-
 
 class Library:
     def __init__(self, initial_books):
